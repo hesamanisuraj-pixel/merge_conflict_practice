@@ -1,1 +1,2 @@
-This is change from feature-2
+This is merged change from both features
+
